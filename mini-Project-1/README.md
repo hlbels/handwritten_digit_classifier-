@@ -55,7 +55,7 @@ The entire process is documented in a Jupyter Notebook (`main.ipynb`), with step
 |-----------------|-------------|
 | Hala Belamri    | 40221036 |
 |Mohamed Hossein Lakkis||
-|Noura Tabbara||
+|Noura Tabbara    | 40258189 |
 ---
 
 ### Status
