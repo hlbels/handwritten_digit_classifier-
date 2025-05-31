@@ -1,1 +1,1 @@
-# COMP-472-Projects
+# COMP 472 – Artificial Intelligence
