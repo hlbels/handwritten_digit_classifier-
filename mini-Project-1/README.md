@@ -54,7 +54,7 @@ The entire process is documented in a Jupyter Notebook (`main.ipynb`), with step
 | Name            | Student ID |
 |-----------------|-------------|
 | Hala Belamri    | 40221036 |
-|Mohamed Hossein Lakkis||
+|Mohamed Hossein Lakkis|40089703|
 |Noura Tabbara    | 40258189 |
 ---
 
